@@ -5,4 +5,17 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+
+    <!-- Menú de la app -->
+
+    <string name="inicio">Inicio</string>
+    <string name="where">¿Dónde estoy?</string>
+    <string name="interno">Interno</string>
+    <string name="rutas_ingreso">Rutas Ingreso</string>
+    <string name="rutas_salida">Rutas Salida</string>
+    <string name="comunidad">Comunidad</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
 </resources>
