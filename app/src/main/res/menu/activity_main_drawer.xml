@@ -17,15 +17,96 @@
         <item
             android:id="@+id/nav_entrada"
             android:icon="@drawable/ic_busin"
-            android:title="@string/rutas_salida" />
+            android:title="@string/rutas_ingreso" />
+        <!-- Submenu entrada -->
+
+            <item
+                android:id="@+id/nav_entrada_acacia"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/acacias" />
+            <item
+                android:id="@+id/nav_entrada_alban"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/alban" />
+            <item
+                android:id="@+id/nav_entrada_duran"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/duran" />
+            <item
+                android:id="@+id/nav_entrada_norte1"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/norte1" />
+            <item
+                android:id="@+id/nav_entrada_norte2"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/norte2" />
+            <item
+                android:id="@+id/nav_entrada_norte3"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/norte3" />
+            <item
+                android:id="@+id/nav_entrada_orquideas"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/orquideas" />
+            <item
+                android:id="@+id/nav_entrada_perimetral"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/perimetral" />
+            <item
+                android:id="@+id/nav_entrada_portete"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/portete" />
+
+
+
         <item
             android:id="@+id/nav_salida"
             android:icon="@drawable/ic_busout"
             android:title="@string/rutas_salida" />
+        <!-- Submenu salida -->
+            <item
+                android:id="@+id/nav_salida_alban"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/rutas_salida" />
+            <item
+                android:id="@+id/nav_salida_norte"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/rutas_salida" />
+
+            <item
+                android:id="@+id/nav_salida_sur"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/rutas_salida" />
+
         <item
             android:id="@+id/nav_comunidad"
+            android:checked="false"
             android:icon="@drawable/ic_communities"
             android:title="@string/comunidad" />
+        <!--Submenu comunidad -->
+            <item
+                android:id="@+id/nav_comunidad_perdidos"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/perdidos" />
+            <item
+                android:id="@+id/nav_comunidad_coment"
+                android:icon="@drawable/ic_menu_send"
+                android:visible="false"
+                android:title="@string/comentarios" />
+
         <item
             android:id="@+id/nav_acerca_de"
             android:icon="@drawable/ic_about"

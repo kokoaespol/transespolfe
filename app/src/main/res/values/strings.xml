@@ -14,8 +14,22 @@
     <string name="interno">Interno</string>
     <string name="rutas_ingreso">Rutas Ingreso</string>
     <string name="rutas_salida">Rutas Salida</string>
+    <string name="alban">Alban Borja</string>
+    <string name="norte">Norte</string>
+    <string name="sur">Sur</string>
+    <string name="acacias">Acacias</string>
+    <string name="duran">Durán</string>
+    <string name="orquideas">Orquideas</string>
+    <string name="perimetral">Perimetras</string>
+    <string name="portete">Portete</string>
+    <string name="norte1">Norte 1</string>
+    <string name="norte2">Norte 2</string>
+    <string name="norte3">Norte 3</string>
     <string name="comunidad">Comunidad</string>
+    <string name="perdidos">Objetos Perdidos</string>
+    <string name="comentarios">Comentarios</string>
     <string name="acerca_de">Acerca de</string>
     <string name="cerrar_sesion">Cerrar Sesión</string>
+
 
 </resources>
